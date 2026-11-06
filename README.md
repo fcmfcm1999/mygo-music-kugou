@@ -1,6 +1,6 @@
 # 酷狗 · MyGo Music 插件
 
-在 MyGo Music 中搜索、浏览和播放酷狗音乐。插件直接调用酷狗接口。
+在 [MyGo Music](https://github.com/egoist/mygo-music) 中搜索、浏览和播放酷狗音乐。插件直接调用酷狗接口。
 
 ## 安装和使用
 
